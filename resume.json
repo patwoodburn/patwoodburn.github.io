@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "Patrick Woodburn",
+    "label": "Software Engineer",
+    "email": "pat@patrickwoodburn.com",
+    "phone": "(267) - 231 - 2069",
+    "website": "patrickwoodburn.com",
+    "summary": "A software engineer passionate about emerging technology that allows users to interact with the world around them.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Philadelphia",
+      "countryCode": "US",
+      "region": "PA"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Comcast",
+      "position": "Software Engineer",
+      "website": "xfinity.com",
+      "startDate": "2015-03-01",
+      "summary": "Designing and developmenting home security and home automation systems.",
+      "highlights": [
+        "Operating within a team of developers to develop and test a new home automation system",
+        "Working with on internet connected devices to automate and secure users homes."
+      ]
+    },
+    {
+      "company": "Franklin Institute",
+      "position": "Teacher",
+      "website": "fi.edu",
+      "startDate": "2006-04-01",
+      "summary": "Teaching robotics to high school students",
+      "highlights": [
+        "Planning lessons on the toppics of electrical and software development.",
+        "Teaching students how to program and build circuitry required for multiple applications of robotics."
+      ]
+    },
+    {
+      "company": "Independence Blue Cross",
+      "position": "Software Engineer",
+      "website": "ibx.com",
+      "startDate": "2014-08-01",
+      "endDate": "2015-02-01",
+      "summary": "Wrighting secure access software for customers to access their person private Insurance information.",
+      "highlights": ["Implementing given designs so that users my have the most comfortable exsperiance posible when accessing their insurance information."]
+    },
+    {
+      "company": "BioHitech America",
+      "position": "Intern",
+      "website": "biohitech.com",
+      "startDate": "2014-01-01",
+      "endDate": "2014-07-01",
+      "summary": "Developed linux bassed software to run on industrial organic digester",
+      "highlights": ["Developed software to run on headless industrial mechinery and proform analitics on their use.", "Set up and maintained linux devices to be used in embeded industrial applications."]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Code for Philly",
+      "position": "",
+      "website": "codeforphilly.org",
+      "startDate": "2011-05-01",
+      "endDate": "2016-01-01",
+      "summary": "Developed Open source software for the betterment of conditions in Philadelphia",
+      "highlights": ["Acted as a subjectmatter expert on developing api's and integrating them into web and mobal apps."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Harrisburg University Of Science And Technology",
+      "area": "Computer Information Sciences",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-05-01",
+      "gpa": "3.4 Major",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Engineering",
+      "keywords": ["Java","C++","Python","Android","HTML","Object Oriented Programming","JavaScript","Nodejs", "Git", "Linux"]
+    },
+    {
+      "name": "Electrical Design",
+      "keywords": ["Circut Design", "Prototyping"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Robotics",
+      "keywords": ["Internet Of Things", "Electrical", "Control Systems"]
+    },
+    {
+      "name": "Artificial Intelligence ",
+      "keywords": ["AI", "Nerual Networks", "Big Data"]
+    },
+    {
+      "name": "Home Automation",
+      "keywords": ["Internet Of Things", "Electrical"]
+    },
+    {
+      "name": "Embedded Systems",
+      "keywords": ["Linux", "Micro Controller", "PIC", "AVR", "Arm"]
+    }
+  ],
+  "references": []
+}
