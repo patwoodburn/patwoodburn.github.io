@@ -25,7 +25,9 @@
       "summary": "Designing and developmenting home security and home automation systems.",
       "highlights": [
         "Operating within a team of developers to develop and test a new home automation system",
-        "Working with on internet connected devices to automate and secure users' homes."
+        "Working with on internet connected devices to automate and secure users' homes.",
+        "Developing android apps that could run against a users unique home automation system.",
+        "Using testing tools such as junit and espresso to creat test code to run against android apps for contiues intagration."
       ]
     },
     {
@@ -36,7 +38,9 @@
       "summary": "Teaching robotics to high school students",
       "highlights": [
         "Planning lessons on the topics of electrical and software development.",
-        "Teaching students how to program and build circuitry required for multiple applications of robotics."
+        "Teaching students how to program and build circuitry required for multiple applications of robotics.",
+        "Working with students to build robots for varius copatitions and musiume displays.",
+        "Documenting use and maintence of students projects to be handed off to groups tasked with operation through musium."
       ]
     },
     {
@@ -46,7 +50,11 @@
       "startDate": "2014-08-01",
       "endDate": "2015-02-01",
       "summary": "Writing secure access software for customers to access their person private Insurance information.",
-      "highlights": ["Implementing given designs so that users may have the most comfortable experience possible when accessing their insurance information."]
+      "highlights": [
+        "Implementing given designs so that users may have the most comfortable experience possible when accessing their insurance information.",
+        "Creating cross platform mobial apps that could be rebranded for multiple insureance companies.",
+        "Porting functionality of apps between incompatable code repositories."
+      ]
     },
     {
       "company": "BioHitech America",
@@ -55,7 +63,13 @@
       "startDate": "2014-01-01",
       "endDate": "2014-07-01",
       "summary": "Developed Linux-based software to run on industrial organic digester",
-      "highlights": ["Developed software to run on headless industrial machnery and preform analytics on their use.", "Set up and maintained Linux devices to be used in embedded industrial applications."]
+      "highlights": [
+        "Developed software to run on headless industrial machnery and preform analytics on their use.",
+        "Set up and maintained Linux devices to be used in embedded industrial applications.",
+        "Creating static envirment configuration for large numbers of linux mechines and virtual mechines",
+        "Devolping Kiosk software to be be able to track metrics from items scaned with nfc chips.",
+        "Developing webpages to pull from varius restful APIs"
+      ]
     }
   ],
   "volunteer": [
@@ -66,7 +80,11 @@
       "startDate": "2011-05-01",
       "endDate": "2016-01-01",
       "summary": "Developed Open source software for the betterment of conditions in Philadelphia",
-      "highlights": ["Acted as a subject matter expert on developing API's and integrating them into web and mobile apps."]
+      "highlights": [
+        "Acted as a subject matter expert on developing API's and integrating them into web and mobile apps.",
+        "Creating Websites for comunity service prokects.",
+        "Building apps to help transform improve comunities within the city."
+      ]
     }
   ],
   "education": [
@@ -85,11 +103,11 @@
   "skills": [
     {
       "name": "Software Engineering",
-      "keywords": ["Java","C++","Python","Android","HTML","Object Oriented Programming","JavaScript","Nodejs", "Git", "Linux","rxJava"]
+      "keywords": ["Java","C++","Python","Android","HTML","Object Oriented Programming","JavaScript","Nodejs", "Git", "Linux","rxJava","php","bash","jquary","React Native","jankins","Docker","ansible"]
     },
     {
       "name": "Electrical Design",
-      "keywords": ["Circuit Design", "Prototyping"]
+      "keywords": ["Circuit Design", "Prototyping", "soldering"]
     }
   ],
   "interests": [
