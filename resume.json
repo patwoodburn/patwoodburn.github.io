@@ -30,7 +30,7 @@
         "Using testing tools such as junit and espresso to create test code to run against android apps for continuous integration.",
         "Building test kits to simulate devices in a normal user home.",
         "Creating technical documentation for both installers and tech support to use when assisting users.",
-        "Setting up continuous integration environment using jankins",
+        "Setting up continuous integration environment using jenkins",
         "Scripting of tools to deploy to and debug on custom android firmware.",
         "Developing software to communicate over wireless interfaces such as bluetooth, wifi, and zigbee."
       ]
@@ -40,12 +40,12 @@
       "position": "Teacher",
       "website": "fi.edu",
       "startDate": "2006-04-01",
-      "summary": "Teaching robotics to high school students",
+      "summary": "Teaching robotics to high school students.",
       "highlights": [
         "Planning lessons on the topics of electrical and software development.",
         "Teaching students how to program and build circuitry required for multiple applications of robotics.",
         "Working with students to build robots for various competition and museum displays.",
-        "Documenting use and maintence of students projects to be handed off to groups tasked with operation through musium.",
+        "Documenting use and maintence of students projects to be handed off to groups tasked with operation through museum.",
         "Building software tools that the students can use to better debug their projects.",
         "Presenting and demonstrating robotics projects to large groups of people.",
         "Operating robots in around the museum."
@@ -59,7 +59,7 @@
       "endDate": "2015-02-01",
       "summary": "Writing secure access software for customers to access their person private Insurance information.",
       "highlights": [ "Implementing given designs so that users may have the most comfortable experience possible when accessing their insurance information.",
-      "Creating cross platform mobial apps that could be rebranded for multiple insureance companies.",
+      "Creating cross platform mobile apps that could be rebranded for multiple insureance companies.",
       "Porting functionality of apps between incompatable code repositories." ] },
     {
       "company": "BioHitech America",
@@ -69,10 +69,10 @@
       "endDate": "2014-07-01",
       "summary": "Developing Linux-based software to run on industrial organic digester",
       "highlights": [
-        "Developing software to run on headless industrial machnery and preform analytics on their use.",
+        "Developing software to run on headless industrial machinery and preform analytics on their use.",
         "Set up and maintained Linux devices to be used in embedded industrial applications.",
-        "Creating static environment configuration for large numbers of linux machines and virtual machines",
-        "Devolping Kiosk software to be be able to track metrics from items scaned with nfc chips.",
+        "Creating static environment configuration for large numbers of linux machinery and virtual machines",
+        "Developing Kiosk software to be be able to track metrics from items scaned with nfc chips.",
         "Developing webpages to pull from various restful APIs.",
         "Creating firmware to drive touchscreen pannels.",
         "Researching and retrofitting new hardware for industrial grade machinery"
@@ -89,11 +89,11 @@
       "summary": "Developed Open source software for the betterment of conditions in Philadelphia",
       "highlights": [
         "Acted as a subject matter expert on developing API's and integrating them into web and mobile apps.",
-        "Creating Websites for comunity service projects.",
-        "Building apps to help transform improve comunities within the city.",
+        "Creating Websites for community service projects.",
+        "Building apps to help transform improve communities within the city.",
         "Developing APIs to open up public data from the city.",
-        "Helping others to bring up and configure their server sulutions on a project to project basses.",
-        "Building data scrapers to bring data into databasses from other scoureces."
+        "Helping others to bring up and configure their server solutions on a project to project basis.",
+        "Building data scrapers to bring data into databases from other sources."
       ]
     }
   ],
@@ -113,7 +113,7 @@
   "skills": [
     {
       "name": "Software Engineering",
-      "keywords": ["Java","C++","Python","Android","HTML","Object Oriented Programming","JavaScript","Nodejs", "Git", "Linux","rxJava","php","bash","jquary","React Native","jankins","Docker","ansible", "cloud", "embeded", "data"]
+      "keywords": ["Java","C++","Python","Android","HTML","Object Oriented Programming","JavaScript","Nodejs", "Git", "Linux","rxJava","php","bash","jquary","React Native","Jenkins","Docker","ansible", "cloud", "embeded", "data"]
     },
     {
       "name": "Electrical Design",
