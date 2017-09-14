@@ -30,9 +30,9 @@
         "Using testing tools such as junit and espresso to create test code to run against android apps for continuous integration.",
         "Building test kits to simulate devices in a normal user home.",
         "Creating technical documentation for both installers and tech support to use when assisting users.",
-        "Setting up continuous integration environment using jenkins",
+        "Setting up continuous integration environment using Jenkins",
         "Scripting of tools to deploy to and debug on custom android firmware.",
-        "Developing software to communicate over wireless interfaces such as bluetooth, wifi, and zigbee."
+        "Developing software to communicate over wireless interfaces such as bluetooth, WIFI, and Zigbee."
       ]
     },
     {
@@ -45,7 +45,7 @@
         "Planning lessons on the topics of electrical and software development.",
         "Teaching students how to program and build circuitry required for multiple applications of robotics.",
         "Working with students to build robots for various competition and museum displays.",
-        "Documenting use and maintence of students projects to be handed off to groups tasked with operation through museum.",
+        "Documenting use and maintenance of student's projects to be handed off to groups tasked with operation through museum.",
         "Building software tools that the students can use to better debug their projects.",
         "Presenting and demonstrating robotics projects to large groups of people.",
         "Operating robots in around the museum."
@@ -57,7 +57,7 @@
       "website": "ibx.com",
       "startDate": "2014-08-01",
       "endDate": "2015-02-01",
-      "summary": "Writing secure access software for customers to access their person private Insurance information.",
+      "summary": "Writing secure access software for customers to access their person private insurance information.",
       "highlights": [ "Implementing given designs so that users may have the most comfortable experience possible when accessing their insurance information.",
       "Creating cross platform mobile apps that could be rebranded for multiple insureance companies.",
       "Porting functionality of apps between incompatable code repositories." ] },
