@@ -24,13 +24,13 @@
       "endDate": "2017-05-19",
       "summary": "Designing and developing home security and home automation systems.",
       "highlights": [
-        "Operating within a team of developers to develop and test a new home automation system",
-        "Working with rnternet connected devices to automate and secure user's homes.",
+        "Operating within a team of developers to develop and test a new home automation system.",
+        "Working with internet connected devices to automate and secure user's homes.",
         "Developing android apps that could run against a users unique home automation system.",
         "Using testing tools such as junit and espresso to create test code to run against android apps for continuous integration.",
         "Building test kits to simulate devices in a normal user home.",
         "Creating technical documentation for both installers and tech support to use when assisting users.",
-        "Setting up continuous integration environment using Jenkins",
+        "Setting up continuous integration environment using Jenkins.",
         "Scripting of tools to deploy to and debug on custom android firmware.",
         "Developing software to communicate over wireless interfaces such as bluetooth, WIFI, and Zigbee."
       ]
@@ -59,7 +59,7 @@
       "endDate": "2015-02-01",
       "summary": "Writing secure access software for customers to access their person private insurance information.",
       "highlights": [ "Implementing given designs so that users may have the most comfortable experience possible when accessing their insurance information.",
-      "Creating cross platform mobile apps that could be rebranded for multiple insureance companies.",
+      "Creating cross platform mobile apps that could be rebranded for multiple insurance companies.",
       "Porting functionality of apps between incompatable code repositories." ] },
     {
       "company": "BioHitech America",
@@ -67,15 +67,15 @@
       "website": "biohitech.com",
       "startDate": "2014-01-01",
       "endDate": "2014-07-01",
-      "summary": "Developing Linux-based software to run on industrial organic digester",
+      "summary": "Developing Linux-based software to run on industrial organic digester.",
       "highlights": [
         "Developing software to run on headless industrial machinery and preform analytics on their use.",
         "Set up and maintained Linux devices to be used in embedded industrial applications.",
-        "Creating static environment configuration for large numbers of linux machinery and virtual machines",
+        "Creating static environment configuration for large numbers of linux machinery and virtual machines.",
         "Developing Kiosk software to be be able to track metrics from items scaned with nfc chips.",
         "Developing webpages to pull from various restful APIs.",
         "Creating firmware to drive touchscreen pannels.",
-        "Researching and retrofitting new hardware for industrial grade machinery"
+        "Researching and retrofitting new hardware for industrial grade machinery."
       ]
     }
   ],
@@ -86,7 +86,7 @@
       "website": "codeforphilly.org",
       "startDate": "2011-05-01",
       "endDate": "2016-01-01",
-      "summary": "Developed Open source software for the betterment of conditions in Philadelphia",
+      "summary": "Developed Open source software for the betterment of conditions in Philadelphia.",
       "highlights": [
         "Acted as a subject matter expert on developing API's and integrating them into web and mobile apps.",
         "Creating Websites for community service projects.",
@@ -113,7 +113,7 @@
   "skills": [
     {
       "name": "Software Engineering",
-      "keywords": ["Java","C++","Python","Android","HTML","Object Oriented Programming","JavaScript","Nodejs", "Git", "Linux","rxJava","php","bash","jquary","React Native","Jenkins","Docker","ansible", "cloud", "embeded", "data"]
+      "keywords": ["Java","C++","Python","Android","HTML","Object Oriented Programming","JavaScript","Nodejs", "Git", "Linux","rxJava","php","bash","jQuery","React Native","Jenkins","Docker","ansible", "cloud", "embeded", "data"]
     },
     {
       "name": "Electrical Design",
