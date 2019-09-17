@@ -1,10 +1,11 @@
 {
   "basics": {
     "name": "Patrick Woodburn",
+    "picture": "./picture.jpg",
     "label": "Software Engineer",
     "email": "pat@patrickwoodburn.com",
     "phone": "(267) - 231 - 2069",
-    "website": "https://www.linkedin.com/in/patrick-woodburn-4a305363/",
+    "website": "http://www.patrickwoodburn.com",
     "summary": "A software engineer passionate about emerging technology that allows users to interact with the world around them.",
     "location": {
       "address": "",
@@ -16,6 +17,30 @@
     "profiles": []
   },
   "work": [
+    {
+      "comany": "Thamas Jefferson University Dice Group",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2017-12-21",
+      "summary": "Lead embedded software software enginereer for the internet of things team.",
+      "highlights": [
+        "Worked on software that drove the first HIPA complient smart speaker.",
+	"Build api's that allowed for internet connected devicres to comunicate between eachother for the purpesses of controlling equipment in a hospital setting.",
+	"Created embedded linux scripts for managing multiple peaces of software on embedded platform.",
+	"Built a system for intercomunication between api's and embedded systems behind firewalls.",
+	"Designed a sytem for delivering software updates bassed on mqtt events.",
+	"Created and maintained projects in Google Cloud Platform for the controle and maintaince of the jefferson IOT systems.",
+	"Improved data flows between existing api's to ensure the fastest possible comunication between interconected systems.",
+	"Lead conversations throught engineering group on uses and emplementation of varius iot networks including LoRaWAN, bluetooth, wifi, and celulare.",
+	"Designed simple electrical cicurtes for small batch products in proof of concept phase.",
+	"Desigened varius housings for different products for 3D printing during proof of concept.",
+	"Created interface for controlling docker over mqtt network.",
+	"Maitained docker images for testing embedded software without need for phisical hardware.",
+	"Created work flows for using docker on embedded systems.",
+	"Created systems to automaticly and dynamicly deployee software to embedded hardware.",
+	"Implementation of redis as cross application key store and comunication bus."
+      ]
+    },
     {
       "company": "Comcast",
       "position": "Software Engineer",
@@ -40,6 +65,7 @@
       "position": "Teacher",
       "website": "fi.edu",
       "startDate": "2006-04-01",
+      "endDate": "2019-06-30",
       "summary": "Teaching robotics to high school students.",
       "highlights": [
         "Planning lessons on the topics of electrical and software development.",
@@ -123,7 +149,7 @@
   "interests": [
     {
       "name": "Robotics",
-      "keywords": ["Internet Of Things", "Electrical", "Control Systems"]
+      "keywords": ["Internet Of Things", "Electrical", "Control Systems", "Electrical", "Control Systems", "Embedded", "BLE", "radio", "microcontroller", "arduino", "PIC", "AVR", "Arm"]
     },
     {
       "name": "Artificial Intelligence ",
@@ -131,7 +157,7 @@
     },
     {
       "name": "Home Automation",
-      "keywords": ["Internet Of Things", "Electrical"]
+      "keywords": ["Internet Of Things", "Electrical", "Control Systems", "Embedded", "Wireless", "BLE", "mqtt", "Zigbee", "xbee", "ZWAVE", "arduino", "microcroller", "PIC", "AVR", "Arm"]
     },
     {
       "name": "Embedded Systems",
