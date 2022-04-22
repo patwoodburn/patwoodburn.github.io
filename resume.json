@@ -18,10 +18,28 @@
   },
   "work": [
     {
+      "company": "Fort Robotics",
+      "Position": "Software Engineer",
+      "website": "https://fortrobotics.com",
+      "startDate": "2021-06-06",
+      "summery": "Embeded linux software engineer for safty devices.",
+      "Highlights": [
+	"Worked on embebbed hardware to increase safty in industrial envirments.",
+	"worked with yocto to create embeded linux distrabutions for custom hardware.",
+	"Created standard build envirments to enable developers to build consistant software.",
+	"Increased proformance of CMake build tools.",
+	"Created chip flashing tools for low level radio interfaces.",
+	"set up automatic build systems for multiple code repositories of multiple languages.",
+	"Improved code stability through the implamentation of static code analissis.",
+        "Trasitioned dependancy managment to more manageable system allowing for faster more relyable software builds."
+      ]
+    },
+    {
       "company": "Thomas Jefferson University - Dice Group",
       "position": "Software Engineer",
       "website": "https://www.dicegrp.org",
       "startDate": "2017-12-21",
+      "endDate": "2021-06-04",
       "summary": "Lead embedded software engineer for the Internet of Things team.",
       "highlights": [
         "Worked on software that drove the first ever HIPAA compliant smart speaker.",
@@ -139,7 +157,7 @@
   "skills": [
     {
       "name": "Software Engineering",
-      "keywords": ["Java","C++","Python","Android","HTML","Object Oriented Programming","JavaScript","Nodejs", "Git", "Linux","rxJava","php","bash","jQuery","React Native","Jenkins","Docker","ansible", "cloud", "embeded", "data"]
+      "keywords": ["Java","C++", "CMake","Python","Android","HTML","Object Oriented Programming","JavaScript","Nodejs", "Git", "Linux","rxJava","php","bash","jQuery","React Native","Jenkins","Docker","ansible", "cloud", "embeded", "data"]
     },
     {
       "name": "Electrical Design",
