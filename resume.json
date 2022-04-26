@@ -24,14 +24,15 @@
       "startDate": "2021-06-06",
       "summery": "Embeded linux software engineer for safty devices.",
       "Highlights": [
-	"Worked on embebbed hardware to increase safty in industrial envirments.",
-	"worked with yocto to create embeded linux distrabutions for custom hardware.",
+	"Worked with yocto to create embeded linux distrabutions for custom hardware.",
 	"Created standard build envirments to enable developers to build consistant software.",
 	"Increased proformance of CMake build tools.",
 	"Created chip flashing tools for low level radio interfaces.",
-	"set up automatic build systems for multiple code repositories of multiple languages.",
+	"Worked on embeded comunications system using zmq and coap",
+	"Set up automatic build systems for multiple code repositories of multiple languages.",
 	"Improved code stability through the implamentation of static code analissis.",
-        "Trasitioned dependancy managment to more manageable system allowing for faster more relyable software builds."
+        "Trasitioned dependancy managment to more manageable system allowing for faster more relyable software builds.",
+	"Worked on embebbed hardware to increase safty in industrial envirments."
       ]
     },
     {
