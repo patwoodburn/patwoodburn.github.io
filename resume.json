@@ -22,7 +22,7 @@
       "Position": "Software Engineer",
       "website": "https://fortrobotics.com",
       "startDate": "2021-06-06",
-      "summery": "Embedded linux software engineer for safety devices.",
+      "summary": "Embedded linux software engineer for safety devices.",
       "Highlights": [
         "Worked with yocto to create embedded linux distributions for custom hardware.",
         "Created standard build environments to enable developers to build consistent software.",
