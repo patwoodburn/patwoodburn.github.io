@@ -6,7 +6,7 @@
     "email": "pat@patrickwoodburn.com",
     "phone": "(267) - 231 - 2069",
     "website": "http://www.patrickwoodburn.com",
-    "summary": "A software engineer passionate about emerging technologies that allows users to interact with the world around them.",
+    "summary": "A software engineer, passionate about emerging technologies that allow users to interact with the world around them.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -22,17 +22,17 @@
       "Position": "Software Engineer",
       "website": "https://fortrobotics.com",
       "startDate": "2021-06-06",
-      "summery": "Embeded linux software engineer for safty devices.",
+      "summery": "Embedded linux software engineer for safety devices.",
       "Highlights": [
-	"Worked with yocto to create embeded linux distrabutions for custom hardware.",
-	"Created standard build envirments to enable developers to build consistant software.",
-	"Increased proformance of CMake build tools.",
-	"Created chip flashing tools for low level radio interfaces.",
-	"Worked on embeded comunications system using zmq and coap",
-	"Set up automatic build systems for multiple code repositories of multiple languages.",
-	"Improved code stability through the implamentation of static code analissis.",
-        "Trasitioned dependancy managment to more manageable system allowing for faster more relyable software builds.",
-	"Worked on embebbed hardware to increase safty in industrial envirments."
+        "Worked with yocto to create embedded linux distributions for custom hardware.",
+        "Created standard build environments to enable developers to build consistent software.",
+        "Increased performance of CMake build tools.",
+        "Created chip flashing tools for low level radio interfaces.",
+        "Worked on embedded communications system using zmq and coap.",
+        "Set up automatic build systems for multiple code repositories in multiple programming languages.",
+        "Improved code stability through the implementation of static code analysis.",
+        "Trasitioned dependency management to more manageable system allowing for faster more reliable software builds.",
+        "Worked on embedded hardware to increase safety in industrial environments."
       ]
     },
     {
@@ -43,22 +43,21 @@
       "endDate": "2021-06-04",
       "summary": "Lead embedded software engineer for the Internet of Things team.",
       "highlights": [
-	"Lead embedded and cloud software engineer for the Internet of Things team.",
-        "Worked on software that drove the first ever HIPAA compliant smart speaker.",
-	"Build APIs that allowed for internet connected devices to communicate between each other for the purpose of controlling equipment in a hospital setting.",
-	"Wrote Linux scripts used to manage a suite of software focused on the embedded platform.",
-	"Built a system for intercommunication between APIs and firewall protected embedded systems.",
-	"Designed a system for delivering software updates leveraging MQTT events.",
-	"Used the Google Cloud Platform to control and maintain numerous Jefferson IoT projects.",
-	"Improved data flow between existing APIs to ensure negligible delay between interconnected systems.",
-	"Lead conversations on uses, pros and cons and implementation of IoT networks including LoRaWAN, Bluetooth, WiFi, and cellular within the engineering team.",
-	"Designed and created prototypes of simple electrical circuits for small batch products on experimental IoT and embedded system projects.",
-	"Designed 3D printed short run rapid protype housings for early phase projects during the proof of concept stage.",
-	"Created an interface for controlling Docker over the MQTT network.",
-	"Maintained Docker images for testing embedded software in order to eliminate the need for physical hardware.",
-	"Created work flows for using Docker on embedded systems.",
-	"Created systems to automatically and dynamically deploy software to embedded hardware.",
-	"Implement Redis as a low lag reliable cross application key store and communication bus solution."
+        "Worked on software that drove the first ever HIPPA compliant smart speaker.",
+        "Built APIs that allowed for internet connected devices to communicate between each other for the purpose of controlling equipment in a hospital setting.",
+        "Wrote Linux scripts used to manage a suite of software focused on the embedded platform.",
+        "Built a system for intercommunication between APIs and firewall protected embedded systems.",
+        "Designed a system for delivering software updates leveraging MQTT events.",
+        "Used Google Cloud Platform to control and maintain numerous Jefferson IoT projects.",
+        "Improved data flow between existing APIs to ensure negligible delay between interconnected systems.",
+        "Lead conversations on uses, pros and cons, and implementation of IoT networks including LoRaWAN, Bluetooth, WiFi, and cellular within the engineering team.",
+        "Designed and created prototypes of simple electrical circuits for small batch products on experimental IoT and embedded system projects.",
+        "Designed 3D printed short run rapid protype housings for early phase projects during the proof of concept stage.",
+        "Created an interface for controlling Docker over the MQTT network.",
+        "Maintained Docker images for testing embedded software in order to eliminate the need for physical hardware.",
+        "Created workflows for using Docker on embedded systems.",
+        "Created systems to automatically and dynamically deploy software to embedded hardware.",
+        "Implement Redis as a low lag reliable cross application key store and communication bus solution."
       ]
     },
     {
@@ -67,17 +66,17 @@
       "website": "http://www.xfinity.com",
       "startDate": "2015-03-01",
       "endDate": "2017-05-19",
-      "summary": "Designing and developing home security and home automation systems.",
+      "summary": "Designed and developed home security and home automation systems.",
       "highlights": [
-        "Operating within a team of developers to develop and test a new home automation system.",
-        "Working with internet connected devices to automate and secure user's homes.",
-        "Developing android apps that could run against a users unique home automation system.",
-        "Using testing tools such as junit and espresso to create test code to run against android apps for continuous integration.",
-        "Building test kits to simulate devices in a normal user home.",
-        "Creating technical documentation for both installers and tech support to use when assisting users.",
-        "Setting up continuous integration environment using Jenkins.",
-        "Scripting of tools to deploy to and debug on custom android firmware.",
-        "Developing software to communicate over wireless interfaces such as bluetooth, WIFI, and Zigbee."
+        "Operated within a team of developers to develop and test a new home automation system.",
+        "Worked with internet connected devices to automate and secure user's homes.",
+        "Developed android apps that could run against a users unique home automation system.",
+        "Used testing tools such as junit and espresso to create test code to run against android apps for continuous integration.",
+        "Built test kits to simulate devices in a typical user's home.",
+        "Created technical documentation for both installation technicians and tech support to use when assisting users.",
+        "Set up continuous integration environment using Jenkins.",
+        "Scripted tools to deploy to and debug on custom android firmware.",
+        "Developed software to communicate over wireless interfaces such as bluetooth, WIFI, and Zigbee."
       ]
     },
     {
@@ -86,15 +85,15 @@
       "website": "http://www.fi.edu",
       "startDate": "2006-04-01",
       "endDate": "2019-06-30",
-      "summary": "Teaching robotics to high school students.",
+      "summary": "Taught robotics to high school students.",
       "highlights": [
-        "Planning lessons on the topics of electrical and software development.",
-        "Teaching students how to program and build circuitry required for multiple applications of robotics.",
-        "Working with students to build robots for various competition and museum displays.",
-        "Documenting use and maintenance of student's projects to be handed off to groups tasked with operation through museum.",
-        "Building software tools that the students can use to better debug their projects.",
-        "Presenting and demonstrating robotics projects to large groups of people.",
-        "Operating robots in around the museum."
+        "Planned lessons on the topics of electrical and software development.",
+        "Taught students how to program and build circuitry required for multiple applications of robotics.",
+        "Worked with students to build robots for various competition and museum displays.",
+        "Documented use and maintenance of students' projects to be handed off to groups tasked with operation through museum.",
+        "Built software tools that the students can use to better debug their projects.",
+        "Presented and demonstrated robotics projects to large groups of people.",
+        "Operated robots in and around the museum."
       ]
     },
     {
@@ -103,25 +102,28 @@
       "website": "http://www.ibx.com",
       "startDate": "2014-08-01",
       "endDate": "2015-02-01",
-      "summary": "Writing secure access software for customers to access their person private insurance information.",
-      "highlights": [ "Implementing given designs so that users may have the most comfortable experience possible when accessing their insurance information.",
-      "Creating cross platform mobile apps that could be rebranded for multiple insurance companies.",
-      "Porting functionality of apps between incompatable code repositories." ] },
+      "summary": "Wrote secure access software for customers to access their person private insurance information.",
+      "highlights": [
+        "Implemented given designs so that users may have the most comfortable experience possible when accessing their insurance information.",
+        "Created cross-platform mobile apps that could be rebranded for multiple insurance companies.",
+        "Ported functionality of apps between incompatible code repositories."
+      ]
+    },
     {
       "company": "BioHitech America",
       "position": "Intern",
       "website": "http://www.biohitech.com",
       "startDate": "2014-01-01",
       "endDate": "2014-07-01",
-      "summary": "Developing Linux-based software to run on industrial organic digester.",
+      "summary": "Developed Linux-based software to run on industrial organic digester.",
       "highlights": [
-        "Developing software to run on headless industrial machinery and preform analytics on their use.",
+        "Developed software to run on headless industrial machinery and perform analytics regarding their use.",
         "Set up and maintained Linux devices to be used in embedded industrial applications.",
-        "Creating static environment configuration for large numbers of linux machinery and virtual machines.",
-        "Developing Kiosk software to be be able to track metrics from items scaned with nfc chips.",
-        "Developing webpages to pull from various restful APIs.",
-        "Creating firmware to drive touchscreen pannels.",
-        "Researching and retrofitting new hardware for industrial grade machinery."
+        "Created static environment configuration for linux machinery and virtual machines.",
+        "Developed Kiosk software to be be able to track metrics from items scanned with nfc chips.",
+        "Developed webpages to pull from various RESTful APIs.",
+        "Created firmware to drive touchscreen pannels.",
+        "Researched and retrofitted new hardware for industrial-grade machinery."
       ]
     }
   ],
@@ -132,14 +134,14 @@
       "website": "http://www.codeforphilly.org",
       "startDate": "2011-05-01",
       "endDate": "2016-01-01",
-      "summary": "Developed Open source software for the betterment of conditions in Philadelphia.",
+      "summary": "Developed Open source software for the betterment of Philadelphia.",
       "highlights": [
         "Acted as a subject matter expert on developing API's and integrating them into web and mobile apps.",
-        "Creating Websites for community service projects.",
-        "Building apps to help transform improve communities within the city.",
-        "Developing APIs to open up public data from the city.",
-        "Helping others to bring up and configure their server solutions on a project to project basis.",
-        "Building data scrapers to bring data into databases from other sources."
+        "Created websites for community service projects.",
+        "Built apps to help transform improve communities within the city.",
+        "Developed APIs to open up public data from the city.",
+        "Helped others to bring up and configure their server solutions on a project to project basis.",
+        "Built data scrapers to bring data into databases from other sources."
       ]
     }
   ],
@@ -159,7 +161,30 @@
   "skills": [
     {
       "name": "Software Engineering",
-      "keywords": ["Java","C++", "CMake","Python","Android","HTML","Object Oriented Programming","JavaScript","Nodejs", "Git", "Linux","rxJava","php","bash","jQuery","React Native","Jenkins","Docker","ansible", "cloud", "embeded", "data"]
+      "keywords": [
+        "Java",
+        "C++",
+        "CMake",
+        "Python",
+        "Android",
+        "HTML",
+        "Object Oriented Programming",
+        "JavaScript",
+        "Nodejs",
+        "Git",
+        "Linux",
+        "rxJava",
+        "php",
+        "bash",
+        "jQuery",
+        "React Native",
+        "Jenkins",
+        "Docker",
+        "ansible",
+        "cloud",
+        "embeded",
+        "data"
+      ]
     },
     {
       "name": "Electrical Design",
@@ -169,7 +194,21 @@
   "interests": [
     {
       "name": "Robotics",
-      "keywords": ["Internet Of Things", "Electrical", "Control Systems", "Electrical", "Control Systems", "Embedded", "BLE", "radio", "microcontroller", "arduino", "PIC", "AVR", "Arm"]
+      "keywords": [
+        "Internet Of Things",
+        "Electrical",
+        "Control Systems",
+        "Electrical",
+        "Control Systems",
+        "Embedded",
+        "BLE",
+        "radio",
+        "microcontroller",
+        "arduino",
+        "PIC",
+        "AVR",
+        "Arm"
+      ]
     },
     {
       "name": "Artificial Intelligence ",
@@ -177,17 +216,32 @@
     },
     {
       "name": "Home Automation",
-      "keywords": ["Internet Of Things", "Electrical", "Control Systems", "Embedded", "Wireless", "BLE", "mqtt", "Zigbee", "xbee", "ZWAVE", "arduino", "microcroller", "PIC", "AVR", "Arm"]
+      "keywords": [
+        "Internet Of Things",
+        "Electrical",
+        "Control Systems",
+        "Embedded",
+        "Wireless",
+        "BLE",
+        "mqtt",
+        "Zigbee",
+        "xbee",
+        "ZWAVE",
+        "arduino",
+        "microcroller",
+        "PIC",
+        "AVR",
+        "Arm"
+      ]
     },
     {
       "name": "Embedded Systems",
       "keywords": ["Linux", "Micro Controller", "PIC", "AVR", "Arm"]
     },
     {
-        "name" :"3D printing",
-        "keywords": ["CAD", "CNC", "Rapid prototyping"]
+      "name": "3D printing",
+      "keywords": ["CAD", "CNC", "Rapid prototyping"]
     }
-
   ],
   "references": []
 }
