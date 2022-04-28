@@ -23,7 +23,7 @@
       "website": "https://fortrobotics.com",
       "startDate": "2021-06-06",
       "summary": "Embedded linux software engineer for safety devices.",
-      "Highlights": [
+      "highlights": [
         "Worked with yocto to create embedded linux distributions for custom hardware.",
         "Created standard build environments to enable developers to build consistent software.",
         "Increased performance of CMake build tools.",
