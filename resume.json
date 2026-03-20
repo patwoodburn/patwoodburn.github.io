@@ -6,7 +6,7 @@
     "email": "pat@patrickwoodburn.com",
     "phone": "(267) - 231 - 2069",
     "website": "http://www.patrickwoodburn.com",
-    "summary": "A jack of all trades software engineer with over 8 year of delivering sevice and software at scale to allow users software and devices to comunicate at large scales. Passionate about emerging technologies that allow users to interact with and better understand the the world around them.",
+    "summary": "A jack of all trades engineer with more then a decade of experience delivering software at scale. I have a passion for learning and applying new technologies to solve problems. I have a strong background in software engineering, but I also have experience in electrical design and prototyping. I am always looking for new challenges and opportunities to grow as an engineer.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -14,14 +14,37 @@
       "countryCode": "US",
       "region": "PA"
     },
-    "profiles": []
+    "profiles": [{
+      "network": "LinkedIn",
+      "username": "patrick-woodburn",
+      "url": "https://www.linkedin.com/in/pat-woodburn-4a305363/"
+    }]
   },
   "work": [
     {
+      "company": "Samsung Smartthings",
+      "position": "Senior Software Engineer",
+      "website": "https://www.samsung.com/us/smartthings/",
+      "startDate": "2022-08-01",
+      "endDate": "2025-03-31",
+      "summary": "Senior backend Java engineer for the SmartThings platform.",
+      "highlights": [
+        "Created and maintained microservices that run on AWS to support the SmartThings platform.",
+        "Used Terraform to manage infrastructure as code for the SmartThings platform.",
+        "Optimized preformance of jvm and ec2 instances to reduce costs and increase reliability of the SmartThings platform.",
+        "Leveraged agentic workflows to accelerate api migration to newer versions of Java and more modern frameworks.",
+        "Maintained api documentation for services to ensure that they are up to date and accurate for both internal and external use.",
+        "Design Dynamo Tables for optimal performance and cost efficiency as well as ease of use for developers.",
+        "Enhanced monitoring and alerting systems to ensure that issues with the SmartThings platform are quickly identified and resolved.",
+        "Handled on call responsibilities to maintain the reliability and uptime of the SmartThings platform."
+      ]
+    },
+    {
       "company": "Fort Robotics",
-      "Position": "Software Engineer",
+      "position": "Senior Software Engineer",
       "website": "https://fortrobotics.com",
       "startDate": "2021-06-06",
+      "endDate": "2022-07-31",
       "summary": "Embedded linux software engineer for safety devices.",
       "highlights": [
         "Worked with yocto to create embedded linux distributions for custom hardware.",
@@ -81,7 +104,7 @@
     },
     {
       "company": "Franklin Institute",
-      "position": "Teacher",
+      "position": "Science Educator",
       "website": "http://www.fi.edu",
       "startDate": "2006-04-01",
       "endDate": "2019-06-30",
@@ -152,7 +175,6 @@
       "studyType": "Bachelor",
       "startDate": "2010-09-01",
       "endDate": "2014-05-01",
-      "gpa": "3.4 Major",
       "courses": []
     }
   ],
@@ -163,6 +185,9 @@
       "name": "Software Engineering",
       "keywords": [
         "Java",
+        "spring",
+        "zig",
+        "C",
         "C++",
         "CMake",
         "Python",
@@ -188,7 +213,7 @@
     },
     {
       "name": "Electrical Design",
-      "keywords": ["Circuit Design", "Prototyping", "soldering", "CAD"]
+      "keywords": ["Circuit Design", "Prototyping", "soldering", "CAD", "PCB design", "3D printing"]
     }
   ],
   "interests": [
@@ -212,7 +237,7 @@
     },
     {
       "name": "Artificial Intelligence ",
-      "keywords": ["AI", "Neural Networks", "Big Data"]
+      "keywords": ["AI", "Neural Networks", "Big Data", "Machine Learning", "Deep Learning", "Reinforcement Learning", "Natural Language Processing", "Computer Vision"]
     },
     {
       "name": "Home Automation",
