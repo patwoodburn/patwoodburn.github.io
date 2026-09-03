@@ -22,7 +22,21 @@
   },
   "work": [
     {
-      "company": "Samsung Smartthings",
+      "name": "Syzygy Integration",
+      "company": "Syzygy Integration",
+      "position": "Senior Software Engineer",
+      "website": "https://syzygyintegration.com/",
+      "startDate": "2026-06-01",
+      "summary": "Senior edge compute software engineer for the Syzygy Integration team.",
+      "highlights": [
+        "Create and maintain embedded services for communications between edge devices and embedded sensors",
+        "Handle integration of new sensors and devices into the Syzygy Integration platform",
+        "Push towards modernizing development practices and tools to increase developer productivity and reduce time to market for new features"
+      ]
+    },
+    {
+      "name": "Samsung SmartThings",
+      "company": "Samsung SmartThings",
       "position": "Senior Software Engineer",
       "website": "https://www.samsung.com/us/smartthings/",
       "startDate": "2022-08-01",
@@ -40,6 +54,7 @@
       ]
     },
     {
+      "name": "Fort Robotics",
       "company": "Fort Robotics",
       "position": "Senior Software Engineer",
       "website": "https://fortrobotics.com",
@@ -59,6 +74,7 @@
       ]
     },
     {
+      "name": "Thomas Jefferson University - Dice Group",
       "company": "Thomas Jefferson University - Dice Group",
       "position": "Software Engineer",
       "website": "https://www.dicegrp.org",
@@ -84,6 +100,7 @@
       ]
     },
     {
+      "name": "Comcast",
       "company": "Comcast",
       "position": "Software Engineer",
       "website": "http://www.xfinity.com",
@@ -103,6 +120,7 @@
       ]
     },
     {
+      "name": "Franklin Institute",
       "company": "Franklin Institute",
       "position": "Science Educator",
       "website": "http://www.fi.edu",
@@ -120,6 +138,7 @@
       ]
     },
     {
+      "name": "Independence Blue Cross",
       "company": "Independence Blue Cross",
       "position": "Software Engineer",
       "website": "http://www.ibx.com",
@@ -133,6 +152,7 @@
       ]
     },
     {
+      "name": "BioHitech America",
       "company": "BioHitech America",
       "position": "Intern",
       "website": "http://www.biohitech.com",
@@ -172,7 +192,7 @@
     {
       "institution": "Harrisburg University Of Science And Technology",
       "area": "Computer Information Sciences",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor of Science in Computer Information Sciences",
       "startDate": "2010-09-01",
       "endDate": "2014-05-01",
       "courses": []
@@ -182,33 +202,52 @@
   "publications": [],
   "skills": [
     {
-      "name": "Software Engineering",
+      "name": "Back End Services",
       "keywords": [
         "Java",
-        "spring",
-        "zig",
-        "C",
-        "C++",
+        "spring boot",
+        "REST",
+        "Protobuf",
+        "gRPC",
+        "Redis",
+        "DynamoDB",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Embedded Linux",
+      "keywords": [
+        "C/C++",
         "CMake",
-        "Python",
-        "Android",
-        "HTML",
-        "Object Oriented Programming",
-        "JavaScript",
-        "Nodejs",
-        "Git",
-        "Linux",
-        "rxJava",
-        "php",
-        "bash",
-        "jQuery",
-        "React Native",
+        "yacto",
+        "syscalls",
+        "systemd"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords":[
+        "git",
+        "github",
+        "gitlab",
+        "CI/CD",
+        "ci pipelines",
         "Jenkins",
         "Docker",
         "ansible",
-        "cloud",
-        "embeded",
-        "data"
+        "terraform",
+        "aws"
+      ]
+    },
+    {
+      "name": "Microcontrollers",
+      "keywords": [
+        "Arduino",
+        "PIC",
+        "AVR",
+        "Arm",
+        "BLE",
+        "C/C++"
       ]
     },
     {
@@ -234,10 +273,6 @@
         "AVR",
         "Arm"
       ]
-    },
-    {
-      "name": "Artificial Intelligence ",
-      "keywords": ["AI", "Neural Networks", "Big Data", "Machine Learning", "Deep Learning", "Reinforcement Learning", "Natural Language Processing", "Computer Vision"]
     },
     {
       "name": "Home Automation",
